@@ -1,4 +1,4 @@
-# email-template-project
+![image](https://github.com/user-attachments/assets/8fd7446b-68c1-4396-bede-bc9c20f609f7)# email-template-project
 # Responsive Professional Email Template
 
 A responsive, professional email template built using HTML and inline CSS. Designed to be compatible with major email clients and devices.
